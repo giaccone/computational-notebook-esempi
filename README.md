@@ -19,3 +19,4 @@ Questo repository contiene tutti gli esempi di computational notebook presentati
 
 ### Gogebra
 1. `notebook_example1.ggb` : file importbile in Geogebra che visualizza le forme d'onda di potenza in regime sinusoidale. E' possibile importarlo accedendo al software nella sua [versione cloud based](https://www.geogebra.org/calculator)
+2. Esempi di progetti più struttirati: [link1](http://polilabhome.polito.it/2021/03/28/moto-armonico-esercizio-con-simulazione/), [link2](http://polilabhome.polito.it/2021/03/25/collisioni-nucleari-1/)
