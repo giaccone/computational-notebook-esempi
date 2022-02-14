@@ -1,9 +1,16 @@
 # Computational Notebook: esempi
 
-Questo repository contiene tutti gli esempi di computational notebook presentati il 14.02.2022 durante l'evento "la settimana della didattica" nell'intervento.
+Questo repository contiene tutti gli esempi di computational notebook presentati il 14.02.2022 durante l'evento "la settimana della didattica" nell'intervento:
 
 **Computational notebook per stimolare l'apprendimento attivo**
 *Luca Giaccone* [(luca.giaccone@polito.it)](mailto:luca.giaccone@polito.it)
+
+<p align="center">
+<img src="./img/cover.png" width="450">
+</p>
+<p align="center">
+(testo della presentazione dispobinile nel repository in formato PDF)
+</p>
 
 ## Breve descrizione dei Notebook
 
